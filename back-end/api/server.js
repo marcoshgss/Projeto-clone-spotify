@@ -1,4 +1,4 @@
-// API significa Application Programming Interface
+// API (Application Programming Interface)
 // POST, GET, PUT, DELETE
 // CRUD - Create Read Update Delete
 // Endpoint
